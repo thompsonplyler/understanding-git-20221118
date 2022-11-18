@@ -1,8 +1,5 @@
 This is the first line of the first file in our readme.
 
-Local ---- Remote (NOT JUST GITHUB)
-Remote (Heroku)
-Remote (Gitlab)
-Remote (VPS)
+Check out all this neat stuff I'm doing.
 
-`git push main gitlab-origin`
+It's great.
